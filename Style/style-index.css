@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+    color: green;
+}
+
+p {
+    text-align: center;
+}
+
+body{ 
+    background-color: bisque;
+    color: black;
+}
+
+.menubouton{
+    display: block;
+    text-align: center;
+}
+
+.navbar{
+    text-align: center;
+    background-color: #333;
+    justify-content: center;
+}
+
+.navbar a{
+    color: white;
+    padding: 20px 40px;
+    text-decoration: none;
+}
+
+hr{
+    border: none;
+    border-top: 1px solid black;
+}
+
+.icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
